@@ -30,3 +30,7 @@ public class Sample3 {
     System.out.println("1: 大吉 2: 中吉 3: 吉 4: 凶");
   }
 }
+/*nextLineは文字列の入力を受け取る
+nextIntは数値の入力を受け取る
+Randomを使うと指定した数値未満をランダムに表示する
+*/
