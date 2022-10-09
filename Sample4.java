@@ -100,3 +100,6 @@ public class Sample4 {
     System.out.println("ゲームを終了します");
   }
 }
+
+//switch 文では最初に式を評価。case の後に記述されたラベルの値と一致したものがあった場合に、そのラベルの位置へ処理。
+//switch 文を終了させたい場合は、終了させたい位置に break 文を記述
