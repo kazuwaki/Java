@@ -1,6 +1,4 @@
-package calcapp.logics;
-
-public class Sample9Debug {
+public class ClacLogic{
   public static int tasu(int a, int b) {
     return (a + b);
   }
