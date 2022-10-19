@@ -1,5 +1,7 @@
 package clacapp.main;
 import clacapp.main.*;
+//import パッケージ名.クラス名
+//import 宣言はクラスの定義を行うよりも前に行う
 //import clacapp.logics.*;
 
 public class Clac{
