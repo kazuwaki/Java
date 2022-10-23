@@ -15,6 +15,9 @@ public class test {
     //arryの偶数をスキップ（continue)
     for (int i = 0; i < arry.length; i++){
       if (arry[i] % 2 == 0) {
+        //continueはfor 文や while 文などの繰り返し処理で使用されるもの
+        //continue 文が実行されると繰り返し処理のブロック内にある
+        //continue 文以降の処理をスキップし、次の繰り返し処理へ移る
         continue;
       }
       System.out.println(arry[i]);
