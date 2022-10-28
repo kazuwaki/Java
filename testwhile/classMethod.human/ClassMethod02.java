@@ -14,3 +14,8 @@ public class ClassMethod02 {
     }
 }
 
+/*ClassMethod02クラス
+パッケージ宣言をしてclassMethod.ClassMethod02とクラスのパッケージを指定する
+インポート文を記載してclassMethod.human.Human02クラスを参照できるようにする (この記載がない場合、 new classMethod.human.Human02() という風に毎度パッケージの指定が必要です)
+上記以外はClassMethod01クラスと同様
+*/

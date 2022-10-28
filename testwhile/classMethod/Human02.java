@@ -15,3 +15,7 @@ public class Human02 {
         this.age = age;
     }
 }
+
+//Human02クラス
+//パッケージ宣言をしてclassMethod.human.Human02とクラスのパッケージを指定する
+//上記以外はHuman01クラスと同様
