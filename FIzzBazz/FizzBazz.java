@@ -5,9 +5,9 @@ public class FizzBazz {
     int num = new java.util.Scanner(System.in).nextInt();
     //１５から割り算しないと5や3が先に引っかかるからだめ
     if (num % 15 == 0){
-     System.out.println("FizzBazz"); 
+     System.out.println("FizzBuzz"); 
     } else if (num % 5 == 0) {
-      System.out.println("Bazz");
+      System.out.println("Buzz");
     } else if (num % 3 == 0) {
       System.out.println("Fizz"); 
     } else {
