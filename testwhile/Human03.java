@@ -25,3 +25,9 @@ public class Human03 {
         System.out.println(friend + "さん、こんにちは！");
     }
 }
+/*
+String型の戻り値を返すgetProfileメソッドを定義する
+戻り値を返さない、String型の引数を1つとるgreetメソッドを定義する
+上記メソッド内でString型の引数としてnullが渡される可能性があるためnullチェックを行う(nullをそのまま扱うと、NullPointerExceptionを始め様々なエラーのもととなるためチェックする癖をつけましょう)
+上記以外はHuman01クラスと同様
+*/
